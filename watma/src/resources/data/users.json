@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "firstName": "Maria",
+  "lastName": "Williams",
+  "age": 34,
+  "email": "m.williams@example.com",
+  "address": {
+    "streetAddress": "123 Main St",
+    "city": "Anytown",
+    "state": "US",
+    "postalCode": "12345"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "555-555-5554"
+    },
+    {
+      "type": "work",
+      "number": "555-555-5555"
+    }
+  ]
+}
