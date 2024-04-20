@@ -11,3 +11,4 @@
 
 **Prerequisite:**
 - web server iis or apache must be installed
+- copy all files from watma/src to web server root folder
