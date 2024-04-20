@@ -9,4 +9,5 @@
 - AJAX
 - JavaScript
 
-**Prerequisite**
+**Prerequisite:**
+- web server iis or apache must be installed
